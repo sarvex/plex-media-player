@@ -19,6 +19,18 @@
     "section": "main",
     "values": [
       {
+        "value": "lircd_enabled",
+        "default": false
+      },
+      {
+        "value": "smbd_enabled",
+        "default": false
+      },
+      {
+        "value": "sshd_enabled",
+        "default": false
+      },
+      {
         "value": "webMode",
         "default": "desktop",
         "hidden": true,
